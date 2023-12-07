@@ -2,7 +2,7 @@
 //Lista de heróis e respectivos pontos de XP!
 let heroi = [
     ["Earendil, o Marinheiro das Estrelas", 6500],
-    ["Luthien, a Canção da Noite", 7500],
+    ["Lüthien, a Canção da Noite", 7500],
     ["Beren, o Ladrão da Joia", 3020],
     ["Turgon, o Senhor da Cidade Oculta", 1750],
     ["Tuor, o Herói dos Dois Corações", 8025],
@@ -11,7 +11,7 @@ let heroi = [
     ["Morwen, a Senhora da Casa de Hador", 9300]
 ]
 // Selecione o herói que você deseja jogar (de 0 a 7):
-let heroiSelecionado = 6
+let heroiSelecionado = 1
 
 let nome = heroi[heroiSelecionado][0]
 let xp = heroi[heroiSelecionado][1]
